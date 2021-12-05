@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Question1and2/Question1and2.iml" filepath="$PROJECT_DIR$/Question1and2/Question1and2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/Question3.iml" filepath="$PROJECT_DIR$/Question3/Question3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unitandintegrationtesting.iml" filepath="$PROJECT_DIR$/.idea/modules/unitandintegrationtesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unitandintegrationtesting-build.iml" filepath="$PROJECT_DIR$/.idea/modules/unitandintegrationtesting-build.iml" />
+    </modules>
+  </component>
+</project>
